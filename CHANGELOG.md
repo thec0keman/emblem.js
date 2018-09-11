@@ -1,3 +1,6 @@
+# [0.11.0](https://github.com/machty/emblem.js/releases/tag/v0.10.0)
+- Bump support for Handlebars >= 2.0 [#315](https://github.com/machty/emblem.js/pull/315)
+
 # [0.10.0](https://github.com/machty/emblem.js/releases/tag/v0.10.0)
 - Refactoring for clarity and consistency of bracketed attributes, both for mustache and HTML elements [#312](https://github.com/machty/emblem.js/pull/312)
 - Fix attributes with bound classes and unless [#311](https://github.com/machty/emblem.js/pull/311)
